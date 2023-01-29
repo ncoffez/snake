@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "snake-32d0b"
-  }
+  },
+  "targets": {
+    "snake-32d0b": {
+      "hosting": {
+        "shortUrl": [
+          "nco-snake.web.app"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
