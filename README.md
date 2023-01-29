@@ -1,6 +1,7 @@
 # snake
 The legendary game of snake programmed using Vue + Typescript + Firebase. 
-Live deployment: [nco-snake.web.app](nco-snake.web.app)
+
+Live deployment: [nco-snake.web.app](https://nco-snake.web.app)
 
 ## Customize configuration
 
