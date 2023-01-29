@@ -1,0 +1,19 @@
+body {
+  display: grid;
+  min-height: 100vh;
+  width: 100%;
+}
+
+html, body {
+  overflow-x: hidden;
+}
+
+:root {
+  --cell-background: rgb(240, 240, 240);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --cell-background: rgb(26, 45, 51);
+  }
+}
